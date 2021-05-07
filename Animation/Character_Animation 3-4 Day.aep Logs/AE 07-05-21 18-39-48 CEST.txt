@@ -1,0 +1,1 @@
+  07/05/21 18:39:48 CEST: Starting composition “VFX2021Character”.  Output To: /Users/matteopellizzola/Downloads/VFX2021Character_4.mov    07/05/21 18:39:54 CEST: Finished composition “VFX2021Character”.  Total Time Elapsed: 6 SecondsLog closed on 07/05/21 at 18:39:54 CEST
